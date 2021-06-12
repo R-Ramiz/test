@@ -1,0 +1,19 @@
+git config --global user.email "rabelim87@gmail.com"
+git config --global user.name "R-Ramiz"
+
+1.) git init      //to create git project
+
+2.) git add -A   //to add all files on staching area
+
+3.) git add //to add single file on staching area
+
+4.) git status //to see all added files on staching area
+
+5.)git commit -m "msg for snapshot" //to create a snapshot (version of entier file)
+
+6.)
+
+
+
+
+3Ramiz3
